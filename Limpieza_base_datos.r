@@ -164,7 +164,7 @@ all[,2:25] <- lapply(all[,2:25], as.numeric)
 
 # Guardar el data frame como un archivo Excel
 
-write.xlsx(all, "Top 16 Championes League 22 y 23.xlsx")
+write.xlsx(all, "Top 16 Champions League 22 y 23.xlsx")
 
 
 
